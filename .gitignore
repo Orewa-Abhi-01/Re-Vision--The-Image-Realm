@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 
+
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -27,3 +29,6 @@ dist-ssr
 
 # js file
 ignore.js
+
+.env
+.env.local
